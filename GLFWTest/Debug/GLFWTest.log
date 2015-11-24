@@ -1,0 +1,22 @@
+﻿Build started 24.11.2015 12:49:02.
+     1>Project "C:\Users\askohut\Desktop\testia\GLFWTest\GLFWTest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\askohut\Desktop\testia\GLFWTest\include\ /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt source\controls.cpp
+         controls.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\askohut\Desktop\testia\Debug\GLFWTest.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\askohut\Desktop\testia\GLFWTest\lib\ glew32s.lib glfw3.lib opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\askohut\Desktop\testia\Debug\GLFWTest.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\askohut\Desktop\testia\Debug\GLFWTest.lib" /MACHINE:X86 Debug\controls.obj
+         Debug\main.obj
+         Debug\objloader.obj
+         Debug\quaternion_utils.obj
+         Debug\renderer.obj
+         Debug\shader.obj
+         Debug\tangentspace.obj
+         Debug\text2D.obj
+         Debug\texture.obj
+         Debug\vboindexer.obj
+         GLFWTest.vcxproj -> C:\Users\askohut\Desktop\testia\Debug\GLFWTest.exe
+     1>Done Building Project "C:\Users\askohut\Desktop\testia\GLFWTest\GLFWTest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.67
